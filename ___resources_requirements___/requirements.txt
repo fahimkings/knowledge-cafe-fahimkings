@@ -1,0 +1,26 @@
+#Main Requirements:
+
+1.Navbar must contain a Brand name on the left side. On the right side of the Navbar there should be a user image or 2-3 nav links.
+
+2.Make JSON of minimum 4 data. Each data contains the following 5 information:
+  id,Author name,Blog title,Images(you can use external links),Blog cover image ,Author image ,Read time ,Publish Date
+
+3.Fetch the above mentioned json file and create/show four cards with the JSON data. Each card will contain the information of a single blog.
+Initially, “Time spent on reading” will be 0. After clicking on the “Mark as read” button, the read time of the selected card will be added to the previous time & shown on the “Time spent on read” section. No hour-minute conversion needed. More than 1 click is allowed for a single blog.
+
+4.After clicking on the bookmark icon for each blog, update the total number of blogs added as bookmark and show it on the right sidebar. Initially, it is zero.Show the title of each bookmarked blog on the right sidebar. Initially the title lists will be empty.
+
+
+# Bonus Requirements:
+
+1.Create a blog Component & use it as the last component of the page. Blog component must have the answers of the following questions:
+  Props vs state , How does useState work? , Purpose of useEffect other than fetching data. , How Does React work?
+
+2.Your repository must have a minimum of 8 meaningful GitHub commits.
+
+3.You have to make the entire UI mobile responsive. Place the right sidebar component below the blogs component in mobile view.
+
+4.Show a toast / sweetalert with a suitable message if user tries to bookmark a blog more than once. e.g., “You Have Already Bookmarked This Blog” . You can’t use browser alert. If the blog title gets added in the list after oast alert we will accept it. That is, You can bookmark a blog multiple times. No worries!
+
+#Let's Code Your Career🔥
+#Programming Hero 🎉 
