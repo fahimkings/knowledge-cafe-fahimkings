@@ -1,0 +1,38 @@
+[
+    {
+        "id":4001,
+        "author_name":"Shahriar Shimul",
+        "blog_title":"The Future of JavaScript: Exploring the Latest Features and Updates",
+        "author_img":"https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/273540734_1836872323187575_9050351743638798910_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGTWxQI_XqkRiMLcu69W4pOKLJ9kG2eeOUosn2QbZ545U6lD7E3-T3mTF7FjDhPvkWe5mTT1ZIq5brtg2XymvhI&_nc_ohc=THaljbrj5ScAX9COUZk&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDAakA9kwbnGZFm9ZKbY3ClgVDZQEWUs6A4frgdp4Akew&oe=642DAA03",
+        "blog_cover":"https://burst.shopifycdn.com/photos/javascript-with-laptop-code.jpg?width=925&format=pjpg&exif=1&iptc=1",
+        "read_time":4,
+        "published_date":"June, 1989 (44 years ago)"
+    },
+    {
+        "id":4002,
+        "author_name":"Salman Mehrab",
+        "blog_title":"Optimizing Performance in React: Best Practices for Faster Apps",
+        "author_img":"https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/90294105_140305370809238_6593370223561146368_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFX1LPl8ixd94_Lyyk4Knaw3cNMch-9TnPdw0xyH71Oc7qhDGwnPoZbZM6oLeXNIhyRTEOs8HGZ1kxuPjr9GLY2&_nc_ohc=7-L0_KtMmfgAX8_YvPn&_nc_ht=scontent.fdac138-1.fna&oh=00_AfDzCK5R9-yS_qfMtiikkizZY6Cg8qrNulsDndElyzexbA&oe=644FD134",
+        "blog_cover":"https://burst.shopifycdn.com/photos/programmers-reviewing-code-on-computer.jpg?width=925&format=pjpg&exif=1&iptc=1",
+        "read_time":2,
+        "published_date":"November, 1999 (34 years ago)"
+    },
+    {
+        "id":4003,
+        "author_name":"Ashraf Asif",
+        "blog_title":"Advanced JavaScript Concepts Every Developer Should Know",
+        "author_img":"https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/334044845_173828231782837_2780143001426336847_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGNKx4NIP2P-j-2PjduUGf5th1qqOQR5_a2HWqo5BHn9gjRuYTlJWiAi78JA8TtSAmu_Ag-desn19kHSb4oyMNO&_nc_ohc=Kbphqg-MjEMAX82kaG6&_nc_ht=scontent.fdac138-1.fna&oh=00_AfAzjoh73pr8d8VxzdzyP8mbT8x5TOFFaWrI5LIIYLsAMw&oe=642DC4C7",
+        "blog_cover":"https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer-1200x900.jpg",
+        "read_time":5,
+        "published_date":"April, 1986 (37 years ago)"
+    },
+    {
+        "id":4004,
+        "author_name":"Tanmoy Hasan Khan",
+        "blog_title":"Building Scalable Web Apps with React: Tips and Tricks",
+        "author_img":"https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/301141325_3252833158272319_2032823918969404167_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHufprdKw2OaiROPhqHZpFQWNgY-ZkCKJdY2Bj5mQIolwtwxmtOHDcTRCaXrWJPhqmHvWVrcc8V7S-IwkNXex0g&_nc_ohc=W_qbcV5Yv7gAX8upSG0&_nc_ht=scontent.fdac138-2.fna&oh=00_AfBZzi85VmLPLlEouh5RF66M3MnRDsmXLCOKTN71w_Tt7g&oe=642C482E",
+        "blog_cover":"https://www.interviewbit.com/blog/wp-content/uploads/2021/12/React-Projects.png",
+        "read_time":3,
+        "published_date":"March, 1999 (34 years ago)"
+    }
+]
